@@ -1,0 +1,25 @@
+Do not go gentle into that good night; / Old age should burn and rave at close of day / Rage, rage against the dying of the light.
+
+Harus Jadi Front-end!
+
+Belajar:
+
+Git & GitHub
+
+Basic Terminal Usage
+
+Struktur Data
+
+Algoritma
+
+Design Pattern [KISS, SOLID, YAGNI]
+
+Lisensi
+
+Semantic Versioning
+
+SSH
+
+HTTP/S & API
+
+Character Encodings
