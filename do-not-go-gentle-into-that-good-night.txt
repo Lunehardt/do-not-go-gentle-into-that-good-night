@@ -30,3 +30,5 @@ Bagian 2
 Belajar:
 
 HTML[Basic, Semantic HTML, Aksesibilitas, SEO]
+
+Langsung ke React
