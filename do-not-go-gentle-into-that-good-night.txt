@@ -31,4 +31,4 @@ Belajar:
 
 HTML[Basic, Semantic HTML, Aksesibilitas, SEO]
 
-Langsung ke React
+Langsung ke React & Vue.js
